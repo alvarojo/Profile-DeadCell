@@ -1,0 +1,292 @@
+{
+	"masterVolume": 0.424999999999999,
+	"sfxVolume": 0.25,
+	"musicVolume": 0.225,
+	"ambientVolume": 0.275,
+	"showDodgeCd": false,
+	"enemyAnnounce": true,
+	"controlTuto": true,
+	"hideControls": false,
+	"displayMode": 2,
+	"mute": false,
+	"vsync": true,
+	"lightFlashes": true,
+	"stopDodgeOnCliff": false,
+	"foodKind": "carn",
+	"captureMouse": true,
+	"useLegacyFont": false,
+	"debug": null,
+	"gamepad": {
+		"map_zoom_in": [
+			7,
+			null
+		],
+		"activate": [
+			9,
+			null
+		],
+		"map_zoom_out": [
+			6,
+			null
+		],
+		"right": [
+			15,
+			18
+		],
+		"map_focus": [
+			11,
+			null
+		],
+		"right_skill": [
+			7,
+			null
+		],
+		"map_right": [
+			24,
+			null
+		],
+		"ui_swap_alt": [
+			3,
+			null
+		],
+		"cancel": [
+			1,
+			null
+		],
+		"ui_next": [
+			7,
+			9
+		],
+		"map_up": [
+			27,
+			null
+		],
+		"map_down": [
+			26,
+			null
+		],
+		"ui_prev": [
+			6,
+			8
+		],
+		"ui_swap": [
+			2,
+			null
+		],
+		"dodge": [
+			1,
+			null
+		],
+		"map_left": [
+			23,
+			null
+		],
+		"up": [
+			12,
+			21
+		],
+		"map": [
+			4,
+			null
+		],
+		"down": [
+			13,
+			20
+		],
+		"side_weapon": [
+			3,
+			null
+		],
+		"validate": [
+			0,
+			null
+		],
+		"heal": [
+			8,
+			null
+		],
+		"jump": [
+			0,
+			null
+		],
+		"left": [
+			14,
+			17
+		],
+		"menu": [
+			5,
+			null
+		],
+		"menu_secondary": [
+			2,
+			null
+		],
+		"left_skill": [
+			6,
+			null
+		],
+		"homunculus": [
+			11,
+			null
+		],
+		"main_weapon": [
+			2,
+			null
+		]
+	},
+	"keyboard": {
+		"map_zoom_in": [
+			79,
+			107,
+			null
+		],
+		"activate": [
+			82,
+			null,
+			null
+		],
+		"map_zoom_out": [
+			85,
+			109,
+			null
+		],
+		"right": [
+			68,
+			39,
+			null
+		],
+		"map_focus": [
+			72,
+			96,
+			null
+		],
+		"right_skill": [
+			69,
+			4,
+			51
+		],
+		"map_right": [
+			76,
+			102,
+			null
+		],
+		"ui_swap_alt": [
+			89,
+			null,
+			null
+		],
+		"cancel": [
+			27,
+			null,
+			null
+		],
+		"ui_next": [
+			69,
+			34,
+			null
+		],
+		"map_up": [
+			73,
+			104,
+			null
+		],
+		"map_down": [
+			75,
+			98,
+			null
+		],
+		"ui_prev": [
+			81,
+			33,
+			null
+		],
+		"ui_swap": [
+			88,
+			null,
+			null
+		],
+		"dodge": [
+			16,
+			17,
+			null
+		],
+		"map_left": [
+			74,
+			100,
+			null
+		],
+		"up": [
+			87,
+			38,
+			null
+		],
+		"map": [
+			9,
+			null,
+			null
+		],
+		"down": [
+			83,
+			40,
+			null
+		],
+		"side_weapon": [
+			1,
+			50,
+			null
+		],
+		"validate": [
+			32,
+			13,
+			null
+		],
+		"heal": [
+			70,
+			72,
+			2
+		],
+		"jump": [
+			32,
+			87,
+			38
+		],
+		"left": [
+			65,
+			37,
+			null
+		],
+		"menu": [
+			27,
+			null,
+			null
+		],
+		"menu_secondary": [
+			9,
+			81,
+			null
+		],
+		"left_skill": [
+			81,
+			3,
+			52
+		],
+		"homunculus": [
+			86,
+			2,
+			null
+		],
+		"main_weapon": [
+			0,
+			49,
+			null
+		]
+	},
+	"useDPAD": true,
+	"gamepadRumble": true,
+	"lang": null,
+	"curSlot": 0,
+	"modsLocalPath": {},
+	"ignoreModAutoInstall": true,
+	"version": "2018-06-18",
+	"uniqId": "/CCyU8Pn0Ne228sNXlvh2DDBEIg"
+}
